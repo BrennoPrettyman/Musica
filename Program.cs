@@ -8,7 +8,7 @@ namespace Musica
         {
             Console.Clear();
             Console.WriteLine();
-            Console.BackgroundColor = ConsoleColor.Magenta;
+            Console.ForegroundColor = ConsoleColor.Magenta;
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Smells Like Teen Spirit - Nirvana");
             Console.ResetColor();
@@ -19,7 +19,7 @@ namespace Musica
             Console.WriteLine("She's over bored and self assured");
             Console.WriteLine("Oh no, I know a dirty word");
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
@@ -27,7 +27,7 @@ namespace Musica
             Console.ResetColor();
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("With the lights out, it's less dangerous");
             Console.WriteLine("Here we are now, entertain us");
             Console.WriteLine("I feel stupid and contagious");
@@ -37,7 +37,7 @@ namespace Musica
             Console.ResetColor();
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Yay");
             Console.ResetColor();
             Console.WriteLine();
@@ -48,7 +48,7 @@ namespace Musica
             Console.WriteLine("And always will until the end");
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
@@ -56,7 +56,7 @@ namespace Musica
             Console.ResetColor();
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("With the lights out, it's less dangerous");
             Console.WriteLine("Here we are now, entertain us");
             Console.WriteLine("I feel stupid and contagious");
@@ -66,7 +66,7 @@ namespace Musica
             Console.ResetColor();
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Yay");
             Console.ResetColor();
             Console.WriteLine();
@@ -77,7 +77,7 @@ namespace Musica
             Console.WriteLine("Oh well, whatever, never mind");
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
             Console.WriteLine("Hello, hello, hello, how low");
@@ -85,7 +85,7 @@ namespace Musica
             Console.ResetColor();
             Console.WriteLine();
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("With the lights out, it's less dangerous");
             Console.WriteLine("Here we are now, entertain us");
             Console.WriteLine("I feel stupid and contagious");
